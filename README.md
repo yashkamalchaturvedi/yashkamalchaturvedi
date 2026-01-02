@@ -14,15 +14,18 @@
   <a href="mailto:yashoka59@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail" />
   </a>
+  <a href="https://twitter.com/intent/follow?screen_name=yashkamalcha1">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" />
+  </a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m a **Web3 professional with 3+ years of experience**, working across **Ethereum, DeFi, Layer 2s, MEV research, B2B growth & technical content**.
+I’m a **Web3 professional with 3+ years of experience**, building in **Ethereum, DeFi, Layer 2s, MEV research, B2B growth & technical content**.
 
-I’ve worked with **11+ global startups**, authored **300+ Web3 research pieces**, & collaborated with **Ethereum core devs, founders & protocol teams**.  
+I’ve worked with **11+ global startups**, authored **300+ Web3 pieces**, and collaborated with **Ethereum core devs, founders & protocol teams**.  
 My work has been **recognized by MetaMask founder Dan Finlay** & featured in **Week in Ethereum**.
 
 ---
@@ -30,19 +33,9 @@ My work has been **recognized by MetaMask founder Dan Finlay** & featured in **W
 ## 🧠 What I Focus On
 
 - **Ethereum & DeFi Research** — protocol upgrades, MEV, crypto economics  
-- **Technical Writing** — blogs, deep-dives, reports, explainers  
+- **Technical Writing & Content** — blogs, deep dives, reports, explainers  
 - **B2B Growth Systems** — cold email, outbound strategy, inbound funnels  
 - **Operations & Execution** — proposals, workflows, cross-team delivery  
-
----
-
-## 🏗️ Current Work
-
-- **Operations Lead** — Avarch  
-- **Marketing Consultant** — Wow Labz  
-- **Technical Content Writer** — Chainrisk  
-- **Core Contributor** — RiskLayer  
-- **Web3 Contributor** — EtherWorld  
 
 ---
 
@@ -62,11 +55,11 @@ My work has been **recognized by MetaMask founder Dan Finlay** & featured in **W
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashkamalchaturvedi&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkamalchaturvedi&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -74,7 +67,7 @@ My work has been **recognized by MetaMask founder Dan Finlay** & featured in **W
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkamalchaturvedi&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -90,9 +83,9 @@ My work has been **recognized by MetaMask founder Dan Finlay** & featured in **W
 
 I’m open to:
 - Web3 research collaborations  
-- Technical writing & content strategy  
-- B2B growth systems  
-- Early-stage crypto & AI startups  
+- Technical writing & content systems  
+- B2B growth strategy
+- Early-stage crypto & AI partnerships  
 
 📩 **Email:** yashoka59@gmail.com  
 💼 **LinkedIn:** linkedin.com/in/yash-kamal-chaturvedi  
