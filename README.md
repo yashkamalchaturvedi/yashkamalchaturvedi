@@ -67,9 +67,6 @@ I’m open to:
 - B2B growth strategy
 - Early-stage crypto & AI partnerships  
 
-📩 **Email:** yashoka59@gmail.com  
-💼 **LinkedIn:** linkedin.com/in/yash-kamal-chaturvedi  
-
 ---
 
 <p align="center">
