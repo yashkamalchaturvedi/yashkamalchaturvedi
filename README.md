@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-I’m a **Web3 professional with 3+ years of experience**, building in **Ethereum, DeFi, Layer 2s, MEV research, B2B growth & technical content**. I’ve worked with **11+ global startups**, authored **300+ Web3 pieces**, and collaborated with **Ethereum core devs, founders & protocol teams**. My work has been **recognized by MetaMask founder Dan Finlay** & featured in **Week in Ethereum**.
+I’m a **Web3 professional with 5+ years of experience**, building in **Ethereum, DeFi, Layer 2s, MEV research, B2B growth & technical content**. I’ve worked with **11+ startups**, and have authored over **500+ Web3 pieces**. My work has been **recognized by MetaMask founder Dan Finlay** & featured in **Week in Ethereum**.
 
 ---
 
