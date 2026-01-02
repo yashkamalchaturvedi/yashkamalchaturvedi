@@ -52,26 +52,6 @@ My work has been **recognized by MetaMask founder Dan Finlay** & featured in **W
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashkamalchaturvedi&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkamalchaturvedi&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkamalchaturvedi&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 📚 Education
 
 - **Executive MBA** — J.C. Bose University (2024–2026)  
